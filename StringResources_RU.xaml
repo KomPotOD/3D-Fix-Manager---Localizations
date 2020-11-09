@@ -4,151 +4,151 @@
 
 
     <!-- Display Profiles Window Bar -->
-    <system:String x:Key="Monitor">Monitor</system:String>
-    <system:String x:Key="Projector">Projector</system:String>
-    <system:String x:Key="TV">TV</system:String>
+    <system:String x:Key="Monitor">Монитор</system:String>
+    <system:String x:Key="Projector">Проектор</system:String>
+    <system:String x:Key="TV">ТВ</system:String>
 
     <!-- Misc -->
-    <system:String x:Key="LoadingApplication">Loading Application. Please wait...</system:String>
-    <system:String x:Key="SwitchToCompactGui">Switch to compact gui size.</system:String>
-    <system:String x:Key="SwitchToNormalGui">Switch to normal gui size.</system:String>
-    <system:String x:Key="MinimizeToTray">Minimize window to system tray.</system:String>
-    <system:String x:Key="ChangeLanguage">Change Language</system:String>
-    <system:String x:Key="Close">Close</system:String>
-    <system:String x:Key="Show">Show</system:String>
-    <system:String x:Key="Enable3D">Enable 3D</system:String>
-    <system:String x:Key="Disable3D">Disable 3D</system:String>
-    <system:String x:Key="EnableDriverMod">Enable driver mod</system:String>
-    <system:String x:Key="DisableDriverMod">Disable driver mod</system:String>
-    <system:String x:Key="NoMatchFound">No Match found for</system:String>
+    <system:String x:Key="LoadingApplication">Загрузка приложения. Подождите...</system:String>
+    <system:String x:Key="SwitchToCompactGui">Переключиться на компактный вид.</system:String>
+    <system:String x:Key="SwitchToNormalGui">Переключиться на нормальный вид.</system:String>
+    <system:String x:Key="MinimizeToTray">Свернуть окно в трей.</system:String>
+    <system:String x:Key="ChangeLanguage">Выбрать язык</system:String>
+    <system:String x:Key="Close">Закрыть</system:String>
+    <system:String x:Key="Show">Показать</system:String>
+    <system:String x:Key="Enable3D">Включить 3D</system:String>
+    <system:String x:Key="Disable3D">Отключить 3D</system:String>
+    <system:String x:Key="EnableDriverMod">Вкл. драйвер</system:String>
+    <system:String x:Key="DisableDriverMod">Выкл. драйвер</system:String>
+    <system:String x:Key="NoMatchFound">Не найдено совпадений для</system:String>
 
     <!-- Tab header title -->
-    <system:String x:Key="Installation">Installation</system:String>
-    <system:String x:Key="Play">Play</system:String>
-    <system:String x:Key="EditProfile">Edit Profile</system:String>
-    <system:String x:Key="NewProfile">New Profile</system:String>
-    <system:String x:Key="Hotkeys">Hotkeys</system:String>
-    <system:String x:Key="3dfix">3D Fix</system:String>
-    <system:String x:Key="Profile">Profile</system:String>
-    <system:String x:Key="Settings">Settings</system:String>
-    <system:String x:Key="About">About</system:String>
-    <system:String x:Key="GeneralSettings">Application Settings</system:String>
-    <system:String x:Key="Nvidia3DSettings">Nvidia 3D Settings</system:String>
-    <system:String x:Key="DisplayProfiles">Display Profiles</system:String>
+    <system:String x:Key="Installation">Установка</system:String>
+    <system:String x:Key="Play">Играть</system:String>
+    <system:String x:Key="EditProfile">Редактировать профиль</system:String>
+    <system:String x:Key="NewProfile">Новый профиль</system:String>
+    <system:String x:Key="Hotkeys">Горячие клавиши</system:String>
+    <system:String x:Key="3dfix">Правка 3D</system:String>
+    <system:String x:Key="Profile">Профиль</system:String>
+    <system:String x:Key="Settings">Настройки</system:String>
+    <system:String x:Key="About">О приложении</system:String>
+    <system:String x:Key="GeneralSettings">Настройки приложения</system:String>
+    <system:String x:Key="Nvidia3DSettings">Настройки Nvidia 3D</system:String>
+    <system:String x:Key="DisplayProfiles">Профили отображения</system:String>
 
     <!-- Game list on left column-->
-    <system:String x:Key="All">All Games</system:String>
-    <system:String x:Key="Installed">Installed Games</system:String>
-    <system:String x:Key="AllFixTypes">All Fix Types</system:String>
+    <system:String x:Key="All">Все игры</system:String>
+    <system:String x:Key="Installed">Установленные игры</system:String>
+    <system:String x:Key="AllFixTypes">Любые правки</system:String>
     <system:String x:Key="_3dmigoto">3dmigoto (DX 11)</system:String>
     <system:String x:Key="Helixmod">Helixmod (DX 9)</system:String>
     <system:String x:Key="OpenGLwrapper">OpenGL Wrapper</system:String>
-    <system:String x:Key="NotFixed">Without 3D Fix</system:String>
-    <system:String x:Key="VerifiedFixes">Verified 3D Fixes</system:String>
-    <system:String x:Key="UnverifiedFixes">Unverified 3D Fixes</system:String>
-    <system:String x:Key="VrCompatible">VR compatible</system:String>
-    <system:String x:Key="New">New</system:String>
-    <system:String x:Key="CreateProfileToolTip">Create Fix Profile</system:String>
-    <system:String x:Key="Edit">Edit</system:String>
-    <system:String x:Key="EditProfileToolTip">Edit Fix Profile</system:String>
-    <system:String x:Key="Delete">Delete</system:String>
-    <system:String x:Key="DeleteProfileToolTip">Remove Fix Profile</system:String>
+    <system:String x:Key="NotFixed">Без правок 3D</system:String>
+    <system:String x:Key="VerifiedFixes">Провер. правки 3D</system:String>
+    <system:String x:Key="UnverifiedFixes">Непровер. правки 3D</system:String>
+    <system:String x:Key="VrCompatible">VR-совместимые</system:String>
+    <system:String x:Key="New">Создать</system:String>
+    <system:String x:Key="CreateProfileToolTip">Создать новый профиль правки</system:String>
+    <system:String x:Key="Edit">Изменить</system:String>
+    <system:String x:Key="EditProfileToolTip">Изменить профиль правки</system:String>
+    <system:String x:Key="Delete">Удалить</system:String>
+    <system:String x:Key="DeleteProfileToolTip">Удалить профиль правки</system:String>
 
     <!-- Installation Tab -->
-    <system:String x:Key="NoGamesInstalled">No compatible games installed.</system:String>
-    <system:String x:Key="Play2D">Play 2D</system:String>
-    <system:String x:Key="Play3D">Play 3D</system:String>
-    <system:String x:Key="PlayVR">Play in VR</system:String>
-    <system:String x:Key="InstallFix">Install 3D Fix</system:String>
-    <system:String x:Key="InstallFixCompleted">Install completed</system:String>
-    <system:String x:Key="BackupRecoveryFailed">Backup recovery failed.</system:String>
-    <system:String x:Key="InstallFixFailed">Install failed. Check Install Path</system:String>
-    <system:String x:Key="InstallFixFailed02" xml:space="preserve">Error: Fix could not be installed.&#x0d;&#x0d;Make sure 3D Fix Manager is started with admin rights and try again.</system:String>
-    <system:String x:Key="InstallWrapperFailed" xml:space="preserve">Error: Wrapper could not be installed.&#x0d;&#x0d;Make sure 3D Fix Manager is started with admin rights and try again.</system:String>
-    <system:String x:Key="FixWrapperOutdated">This fix includes an outdated version of 3dmigoto.</system:String>
-    <system:String x:Key="DownloadFix">Download 3D Fix</system:String>
-    <system:String x:Key="UninstallFix">Uninstall 3D Fix</system:String>
-    <system:String x:Key="UninstallFixCompleted">Uninstall completed</system:String>
-    <system:String x:Key="UninstallFixFailed">Uninstall failed</system:String>
-    <system:String x:Key="InstallWrapper">Install 3D Wrapper</system:String>
-    <system:String x:Key="UninstallWrapper">Uninstall 3D Wrapper</system:String>
-    <system:String x:Key="DeleteDownload">Clear DL Cache</system:String>
-    <system:String x:Key="DeleteDownloadToolTip">Deletes downloaded files of a 3D fix from 3D Fix Manager directory.</system:String>
-    <system:String x:Key="DeleteSuccess">Success. All downloaded files deleted.</system:String>
-    <system:String x:Key="DeleteError" xml:space="preserve">Error: Not all files could be deleted. &#x0d;&#x0d;Please make sure that no file is in use.</system:String>
+    <system:String x:Key="NoGamesInstalled">Совместимые игры не установлены.</system:String>
+    <system:String x:Key="Play2D">Играть в 2D</system:String>
+    <system:String x:Key="Play3D">Играть в 3D</system:String>
+    <system:String x:Key="PlayVR">Играть в VR</system:String>
+    <system:String x:Key="InstallFix">Установить правку 3D</system:String>
+    <system:String x:Key="InstallFixCompleted">Установка завершена</system:String>
+    <system:String x:Key="BackupRecoveryFailed">Не удалось восстановить резервную копию.</system:String>
+    <system:String x:Key="InstallFixFailed">Не удалось установить. Проверьте путь установки</system:String>
+    <system:String x:Key="InstallFixFailed02" xml:space="preserve">Ошибка: не удалось установить правку.&#x0d;&#x0d;Убедитесь, что 3D Fix Manager запущен от имени администратора, и попробуйте снова.</system:String>
+    <system:String x:Key="InstallWrapperFailed" xml:space="preserve">Ошибка: не удалось установить Wrapper.&#x0d;&#x0d;Убедитесь, что 3D Fix Manager запущен от имени администратора, и попробуйте снова.</system:String>
+    <system:String x:Key="FixWrapperOutdated">Эта правка содержит устаревшую версию 3dmigoto.</system:String>
+    <system:String x:Key="DownloadFix">Загрузить правку 3D</system:String>
+    <system:String x:Key="UninstallFix">Удалить правку 3D</system:String>
+    <system:String x:Key="UninstallFixCompleted">Удаление завершено</system:String>
+    <system:String x:Key="UninstallFixFailed">Не удалось удалить</system:String>
+    <system:String x:Key="InstallWrapper">Установить 3D Wrapper</system:String>
+    <system:String x:Key="UninstallWrapper">Удалить 3D Wrapper</system:String>
+    <system:String x:Key="DeleteDownload">Очистить кэш загрузки</system:String>
+    <system:String x:Key="DeleteDownloadToolTip">Удаляет загруженные файлы 3D-правки из каталога 3D Fix Manager.</system:String>
+    <system:String x:Key="DeleteSuccess">Готово! Все скачанные файлы удалены.</system:String>
+    <system:String x:Key="DeleteError" xml:space="preserve">Ошибка: не удалось удалить все файлы. &#x0d;&#x0d;Убедитесь, что ни один файл не используется.</system:String>
     <system:String x:Key="SourceFolder">Profile Folder</system:String>
-    <system:String x:Key="SourceFolderToolTip">Opens windows explorer and shows all files related to this 3D fix profile.</system:String>
-    <system:String x:Key="VisitSteamStore">Product Page</system:String>
-    <system:String x:Key="VisitSteamStoreToolTip">Opens webbrowser to show additional information about the game.</system:String>
-    <system:String x:Key="VisitHelixMod">HelixMod Blog</system:String>
-    <system:String x:Key="VisitHelixModToolTip">Get more information about the selected fix on HelixMod Webpage.</system:String>
-    <system:String x:Key="ForceCompatibilityMode">Enable CMU</system:String>
-    <system:String x:Key="EnableFix">Enable Fix</system:String>
-    <system:String x:Key="DownloadCompleted">Download completed</system:String>
-    <system:String x:Key="Downloading">Downloading...</system:String>
-    <system:String x:Key="DownloadFailed">Download failed</system:String>
-    <system:String x:Key="Extracting">Extracting...</system:String>
-    <system:String x:Key="ExtractionFailed">Extraction failed</system:String>
-    <system:String x:Key="GameNotInstalled">Game not installed</system:String>
-    <system:String x:Key="OpenExplorerError">Error: Could not open path in Windows explorer. Path does not exist</system:String>
-    <system:String x:Key="HotkeyBackupFound" xml:space="preserve">A backup for hotkeys and 3d fix configuration has been found. &#x0d;&#x0d;Do you want to restore the backup?</system:String>
-    <system:String x:Key="CreateHotkeyBackup">Do you want to create a backup of your hotkeys and 3D fix configuration before uninstall?</system:String>
+    <system:String x:Key="SourceFolderToolTip">Открывает проводник Windows и показывает все файлы, относящиеся к данному профилю правки 3D.</system:String>
+    <system:String x:Key="VisitSteamStore">Страница продукта</system:String>
+    <system:String x:Key="VisitSteamStoreToolTip">Открывает веб-браузер для отображения дополнительной информации об игре.</system:String>
+    <system:String x:Key="VisitHelixMod">Блог HelixMod</system:String>
+    <system:String x:Key="VisitHelixModToolTip">Получите дополнительные сведения о выбранной правке на веб-сайте HelixMod (англ).</system:String>
+    <system:String x:Key="ForceCompatibilityMode">Вкл. CMU</system:String>
+    <system:String x:Key="EnableFix">Вкл. правку</system:String>
+    <system:String x:Key="DownloadCompleted">Загрузка завершена</system:String>
+    <system:String x:Key="Downloading">Загрузка...</system:String>
+    <system:String x:Key="DownloadFailed">Не удалось загрузить</system:String>
+    <system:String x:Key="Extracting">Извлечение...</system:String>
+    <system:String x:Key="ExtractionFailed">Извлечение не удалось</system:String>
+    <system:String x:Key="GameNotInstalled">Игра не установлена</system:String>
+    <system:String x:Key="OpenExplorerError">Ошибка: не удалось открыть путь в проводнике Windows. Путь не существует</system:String>
+    <system:String x:Key="HotkeyBackupFound" xml:space="preserve">Обнаружена резервная копия горячих клавиш и конфигурации правки 3D. &#x0d;&#x0d;Восстановить резервную копию?</system:String>
+    <system:String x:Key="CreateHotkeyBackup">Создать резервную копию своих горячих клавиш и конфигурации правки 3D перед удалением?</system:String>
 
     <!--.................... New / Edit Profile Tab Begin .......................... -->
 
-    <system:String x:Key="VrCompatibility">Compatible to VR:</system:String>
-    <system:String x:Key="Uses3DDirect">Uses 3D Direct Mode:</system:String>
-    <system:String x:Key="MainSettingsGroup">Title and State of the 3D Fix:</system:String>
+    <system:String x:Key="VrCompatibility">Совместимость с VR:</system:String>
+    <system:String x:Key="Uses3DDirect">Использует режим 3D Direct:</system:String>
+    <system:String x:Key="MainSettingsGroup">Название и состояние правки 3D:</system:String>
     <system:String x:Key="HelixApiSettingsGroup">Helix / Google Blogger API:</system:String>
-    <system:String x:Key="PrimaryDownloadGroup">Download 3D Fix:</system:String>
-    <system:String x:Key="AlternativeDownloadGroup">Download an alternative version of the 3D Fix:</system:String>
-    <system:String x:Key="InstallFixSettingsGroup">Install 3D Fix:</system:String>
-    <system:String x:Key="GameConfigSettingsGroup">Game Configuration:</system:String>
-    <system:String x:Key="OverrideMonitorProfileGroup">Override Monitor Profile:</system:String>
-    <system:String x:Key="OverrideTVProfileGroup">Override TV Profile:</system:String>
-    <system:String x:Key="OverrideProjectorProfileGroup">Override Projector Profile:</system:String>
-    <system:String x:Key="GameIconSettingsGroup">Game Icon:</system:String>
-    <system:String x:Key="DriverSettingsGroup">Driver Settings / Profiles for Nvidia Profile Inspector:</system:String>
-    <system:String x:Key="GameLaunchSettingsGroup">Game Launch:</system:String>
-    <system:String x:Key="MiscSettingsGroup">Misc Settings:</system:String>
-    <system:String x:Key="FixDescriptionSettingsGroup">3D Fix Description / Helix Blog:</system:String>
+    <system:String x:Key="PrimaryDownloadGroup">Загрузить правку 3D:</system:String>
+    <system:String x:Key="AlternativeDownloadGroup">Загрузить альтернативную версию правки 3D:</system:String>
+    <system:String x:Key="InstallFixSettingsGroup">Установить правку 3D:</system:String>
+    <system:String x:Key="GameConfigSettingsGroup">Конфигурация игры:</system:String>
+    <system:String x:Key="OverrideMonitorProfileGroup">Коррекция профиля "Монитор":</system:String>
+    <system:String x:Key="OverrideTVProfileGroup">Коррекция профиля "ТВ":</system:String>
+    <system:String x:Key="OverrideProjectorProfileGroup">Коррекция профиля "Проектор":</system:String>
+    <system:String x:Key="GameIconSettingsGroup">Значок игры:</system:String>
+    <system:String x:Key="DriverSettingsGroup">Настройки/Профили драйверов для Nvidia Profile Inspector:</system:String>
+    <system:String x:Key="GameLaunchSettingsGroup">Запуск игры:</system:String>
+    <system:String x:Key="MiscSettingsGroup">Прочие настройки:</system:String>
+    <system:String x:Key="FixDescriptionSettingsGroup">Описание правки 3D / Блог Helix:</system:String>
 
-    <system:String x:Key="GameTitle">Game Title:</system:String>
-    <system:String x:Key="RelativeInstallPath">Relative Install Path:</system:String>
-    <system:String x:Key="InstallDir">Install Folder:</system:String>
-    <system:String x:Key="InstallDirName">Install Folder Name:</system:String>
-    <system:String x:Key="CustomRootPath">Custom Root / Game Path:</system:String>
-    <system:String x:Key="RelativeGameIniPath">1. Relative Path to a Game Config File:</system:String>
-    <system:String x:Key="SecondRelativeGameIniPath">2. Relative Path to a Game Config File:</system:String>
-    <system:String x:Key="ThirdRelativeGameIniPath">3. Relative Path to a Game Config File:</system:String>
-    <system:String x:Key="SetDate">Set Date</system:String>
-    <system:String x:Key="SetDateTooltip">Sets today's date as a timestamp.</system:String>
-    <system:String x:Key="DownloadLink_1">1. URL to 3D Fix:</system:String>
-    <system:String x:Key="DownloadLink_2">2. URL to 3D Fix:</system:String>
-    <system:String x:Key="DownloadLink_3">3. URL to 3D Fix:</system:String>
-    <system:String x:Key="InfoAlternativeUrl">Info about the alternative 3D Fix:</system:String>
-    <system:String x:Key="FixArchiveExtractor">Fix Archive Extractor:</system:String>
-    <system:String x:Key="AllowFixInstallation">Allow 3D Fix Installation:</system:String>
-    <system:String x:Key="AllowMigotoUpdate">Allow 3dmigoto Wrapper Update:</system:String>
-    <system:String x:Key="StereoRefreshRateOverride">Stereo Refresh Rate:</system:String>
-    <system:String x:Key="StartTool">Start additional Exe:</system:String>
+    <system:String x:Key="GameTitle">Название игры:</system:String>
+    <system:String x:Key="RelativeInstallPath">Относительный путь установки:</system:String>
+    <system:String x:Key="InstallDir">Папка установки:</system:String>
+    <system:String x:Key="InstallDirName">Имя папки установки:</system:String>
+    <system:String x:Key="CustomRootPath">Корневой каталог игры:</system:String>
+    <system:String x:Key="RelativeGameIniPath">1. Относительный путь к файлу конфигурации игры:</system:String>
+    <system:String x:Key="SecondRelativeGameIniPath">2. Относительный путь к файлу конфигурации игры:</system:String>
+    <system:String x:Key="ThirdRelativeGameIniPath">3. Относительный путь к файлу конфигурации игры:</system:String>
+    <system:String x:Key="SetDate">Установить дату</system:String>
+    <system:String x:Key="SetDateTooltip">Устанавливает сегодняшнюю дату как временную отметку.</system:String>
+    <system:String x:Key="DownloadLink_1">1. Ссылка на правку 3D:</system:String>
+    <system:String x:Key="DownloadLink_2">2. Ссылка на правку 3D:</system:String>
+    <system:String x:Key="DownloadLink_3">3. Ссылка на правку 3D:</system:String>
+    <system:String x:Key="InfoAlternativeUrl">Информация об альтернативной 3D-правке:</system:String>
+    <system:String x:Key="FixArchiveExtractor">Распаковщик архива правки:</system:String>
+    <system:String x:Key="AllowFixInstallation">Разрешить установку правки 3D:</system:String>
+    <system:String x:Key="AllowMigotoUpdate">Разрешить обновление 3dmigoto Wrapper:</system:String>
+    <system:String x:Key="StereoRefreshRateOverride">Частота развёртки:</system:String>
+    <system:String x:Key="StartTool">Запустить дополнительный Exe:</system:String>
 
-    <system:String x:Key="UniversalFixDetectionError">Error: Game Engine could not be detected by searching PC Gaming Wiki and Wikipedia.</system:String>
-    <system:String x:Key="DetectEngine">Detect Engine</system:String>
-    <system:String x:Key="WebLinkHelix">URL to Helix Blog / Geforce Forum:</system:String>
-    <system:String x:Key="HelixPostUpdated">Helix Post last updated:</system:String>
+    <system:String x:Key="UniversalFixDetectionError">Ошибка: не удаётся определить игровой движок по PC Gaming Wiki и Википедии.</system:String>
+    <system:String x:Key="DetectEngine">Определить движок</system:String>
+    <system:String x:Key="WebLinkHelix">Ссылка на блог Helix / Форум Geforce:</system:String>
+    <system:String x:Key="HelixPostUpdated">Последнее обновление Helix Post:</system:String>
 
-    <system:String x:Key="LocalIconPath">Local Icon Path:</system:String>
-    <system:String x:Key="RemoteIconPath">Remote Icon Path:</system:String>
-    <system:String x:Key="DepthHackOverride">3D Depth Hack:</system:String>
-    <system:String x:Key="DisableFixIn2DMode">Disable 3D fix in 2D mode:</system:String>
-    <system:String x:Key="ProductPageUrl">URL to Product Page:</system:String>
-    <system:String x:Key="CmFlag">Hex Value for Compatibility Mode:</system:String>
-    <system:String x:Key="Profile2DMode">Nvidia Inspector Profile for 2D Mode:</system:String>
-    <system:String x:Key="Profile3DMode">Nvidia Inspector Profile for 3D Mode:</system:String>
-    <system:String x:Key="FixState">3D Fix State:</system:String>
-    <system:String x:Key="SteamAppID">Steam App ID:</system:String>
-    <system:String x:Key="EpicAppID">Epic App ID:</system:String>
+    <system:String x:Key="LocalIconPath">Локальный путь к значку:</system:String>
+    <system:String x:Key="RemoteIconPath">Внешний источник значка:</system:String>
+    <system:String x:Key="DepthHackOverride">Взлом грубины 3D:</system:String>
+    <system:String x:Key="DisableFixIn2DMode">Отключить правку 3D в режиме 2D:</system:String>
+    <system:String x:Key="ProductPageUrl">Ссылка на страницу продукта:</system:String>
+    <system:String x:Key="CmFlag">Значение hex для режима совместимости:</system:String>
+    <system:String x:Key="Profile2DMode">Профиль Nvidia Inspector для режима 2D:</system:String>
+    <system:String x:Key="Profile3DMode">Профиль Nvidia Inspector для режима 3D:</system:String>
+    <system:String x:Key="FixState">Состояние правки 3D:</system:String>
+    <system:String x:Key="SteamAppID">ID в Steam:</system:String>
+    <system:String x:Key="EpicAppID">ID в Epic:</system:String>
 
     <system:String x:Key="WaitForExit">Wait for exit</system:String>
     <system:String x:Key="GameExeAsArgument">Game Exe as start parameter</system:String>
